@@ -1,0 +1,1 @@
+# Temel-Python-E-itimi---Jupyter-Notebook-Kodlar-
