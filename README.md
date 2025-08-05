@@ -33,5 +33,10 @@ Bu projedeki tüm içerikler [MIT Lisansı](https://opensource.org/licenses/MIT)
 
 ---
 
+## 📁 Ders Uygulamaları
+
+- [01 - Temel Konular](./01-%20Temel-Konular/python-ders-ici-uygulamalar.ipynb)
+
+
 **Hazırlayan:**Nesrin Kalkan
 **Bağlantı:** https://www.linkedin.com/in/nesrin-kalkan-458b31226/
